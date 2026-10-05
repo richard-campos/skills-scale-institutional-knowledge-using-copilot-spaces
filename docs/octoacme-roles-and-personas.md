@@ -253,4 +253,3 @@ Security Leads protect the project from avoidable security and compliance risk. 
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - These roles are intended to clarify accountability, reduce overlap, and improve project outcomes by making responsibilities explicit across cross-functional teams.
-
